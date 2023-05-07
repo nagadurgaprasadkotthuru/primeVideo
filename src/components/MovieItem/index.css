@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.slide-container {
+  margin-left: 30px;
+}
+
+.trigger-element {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+}
+
+.popup-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.close-button {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+  align-self: flex-end;
+}
+
+.close-icon {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+  margin-bottom: 15px;
+  font-size: 25px;
+}
